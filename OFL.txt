@@ -1,5 +1,4 @@
-Copyright 2022 The Lib Authors (https://github.com/Sayhone721/Architun)
-
+Copyright 2023 The Willias Authors (https://github.com/Bronnel721/Willias)
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
